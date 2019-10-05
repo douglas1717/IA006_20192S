@@ -1,3 +1,4 @@
+#utilization: python3 plot3.py -i 1
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
